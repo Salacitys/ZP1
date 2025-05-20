@@ -1,0 +1,12 @@
+.autoExclude
+equip_nvg.wav
+kevlar.wav
+nvg_off.wav
+nvg_on.wav
+tr_kevlar.wav
+*.lck
+*.tmp
+*.log
+*.log.gz
+temp
+logs

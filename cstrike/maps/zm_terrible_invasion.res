@@ -1,1 +1,0 @@
-zm_terrible_invasion.wad

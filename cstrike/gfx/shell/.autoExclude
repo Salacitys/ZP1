@@ -1,0 +1,9 @@
+.autoExclude
+kb_act.lst
+kb_def.lst
+*.lck
+*.tmp
+*.log
+*.log.gz
+temp
+logs

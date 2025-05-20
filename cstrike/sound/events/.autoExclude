@@ -1,0 +1,11 @@
+.autoExclude
+enemy_died.wav
+friend_died.wav
+task_complete.wav
+tutor_msg.wav
+*.lck
+*.tmp
+*.log
+*.log.gz
+temp
+logs

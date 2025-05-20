@@ -1,0 +1,8 @@
+.autoExclude
+leet.mdl
+*.lck
+*.tmp
+*.log
+*.log.gz
+temp
+logs
